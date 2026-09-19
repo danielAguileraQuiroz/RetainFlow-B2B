@@ -1,0 +1,11 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges
+CLI-0001,Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.35,70.35
+CLI-0002,Male,0,Yes,Yes,65,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),60.00,3900.00
+CLI-0003,Female,1,Yes,No,18,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),95.50,1719.00
+CLI-0004,Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,85.10,170.20
+CLI-0005,Female,0,Yes,Yes,70,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),89.85,6289.50
+CLI-0006,Male,0,No,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,20.15,100.75
+CLI-0007,Female,1,No,No,12,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90.20,1082.40
+CLI-0008,Male,0,Yes,No,48,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Credit card (automatic),55.40,2659.20
+CLI-0009,Female,0,No,No,3,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.85,89.55
+CLI-0010,Male,0,Yes,Yes,60,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),115.60,6936.00

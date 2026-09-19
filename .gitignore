@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales e imágenes generadas
+*.png
+*.xlsx
+*.csv
+!data/template_churn_batch.csv
+
+# IDEs y editores
+.vscode/
+.idea/
+.DS_Store
